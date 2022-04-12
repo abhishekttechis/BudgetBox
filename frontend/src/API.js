@@ -9,7 +9,7 @@ var baseURL;
 // ) {
 //   baseURL = process.env.REACT_APP_API_BASE_URL;
 // } else {
-  baseURL = "https://backend-budgetbox.herokuapp.com/";
+  baseURL = "https://backend-count.herokuapp.com";
 
 const api = axios.create({
   baseURL: baseURL,
