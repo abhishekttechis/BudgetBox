@@ -275,6 +275,7 @@ tr#bold {
 .budget-dropdown {
   padding: 10px;
   font-size: 18px;
+  border-top: 1px solid;
 }
 
 .budget-input .custom-btn {
